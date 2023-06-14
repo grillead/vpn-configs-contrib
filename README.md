@@ -36,6 +36,7 @@ openvpn/mullvad/tcp80/mullvad_ch_tcp80.ovpn
 | blackvpn | :sos: (0%) | 10 | 0 |
 | btguard | :100: | 2 | 2 |
 | cryptostorm | :sos: (0%) | 10 | 0 |
+| cyberghost | :100: | 1 | 1 |
 | expressvpn | :100: | 10 | 10 |
 | fastestvpn | :ok: (80%) | 10 | 8 |
 | freevpn | :sos: (0%) | 10 | 0 |
